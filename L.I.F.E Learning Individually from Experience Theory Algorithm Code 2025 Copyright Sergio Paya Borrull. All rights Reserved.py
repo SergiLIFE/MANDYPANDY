@@ -1,4 +1,5 @@
-# cSpell:ignore torch onnxruntime ort prune dtype isinstance ONNX onnx randn fmax sfreq randint elif asyncio azureml qsize Backpressure calib CUDA cudnn conv sess opset cuda dequant autocast qconfig fbgemm functools maxsize linalg isoformat automl featurization Webservice Anonymization LSTM issuefrom eventhub neurokit Behaviour hasattr ising Neuro
+# Fix the syntax error in this function
+def my_function(param):# cSpell:ignore torch onnxruntime ort prune dtype isinstance ONNX onnx randn fmax sfreq randint elif asyncio azureml qsize Backpressure calib CUDA cudnn conv sess opset cuda dequant autocast qconfig fbgemm functools maxsize linalg isoformat automl featurization Webservice Anonymization LSTM issuefrom eventhub neurokit Behaviour hasattr ising Neuro
 import torch
 import onnxruntime as ort
 from torch.nn.utils import prune
